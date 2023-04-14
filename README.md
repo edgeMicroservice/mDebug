@@ -67,7 +67,7 @@ mimik-edge-cli container deploy --payload start-mDebug.json -f=.access_token | j
 
 6. Use the value for your "MCM.BASE_API_PATH:" to get to the gui. All you need to do is copy the value for MCM.BASE_API_PATH and add "/gui" to the end of it. EX:
 ```
-/79279c04-8945-4141-8b52-2cb92b78cf43/mdebug/v1/gui
+/79279c04-8945-4141-8b52-2cb92b78cf43/mdebug-v1/v1/gui
 ```
 7. Call the gui endpoint from a browser of your choice. you will need the full URL. This will open the gui in the browser EX:
 ```
