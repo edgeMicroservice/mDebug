@@ -1,3 +1,8 @@
+
+#### 🚨 **Important NOTE:** 🚨
+**This mDebug repository has been archived and is no longer maintained.**  
+Please visit our new repository [mInsight](https://github.com/edgeMicroservice/mInsight) for the latest updates.
+
 # mDebug
 mDebug Utility/Debugging microservice. Deploy this microservice to view all the devices in your edge clusters
 
